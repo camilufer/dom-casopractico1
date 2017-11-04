@@ -40,7 +40,7 @@ var reserve = function(){
 };
 
 var chooseZone = function();{
-	var choice = prompt("En que zona prefieres reservar \n 1.Primera Clase \n 2.Economica \n \n Por favor ingresa el numero de tu preferencia
+	var choice = prompt("En que zona prefieres reservar \n 1.Primera Clase \n 2.Economica \n \n Por favor ingresa el numero de tu preferencia"
 );
 
     if(choice ==1){
