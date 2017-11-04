@@ -9,9 +9,9 @@ false,
 false,
 false,
 false,
-false;
-false;
-false;
+false,
+false,
+false
 ];
 
 //contador que nos ayudara a rastrear el numeroo de asientos ocupados
